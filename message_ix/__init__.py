@@ -1,7 +1,7 @@
 import logging
 import sys
 from pathlib import Path
-
+print("xxxxxx")
 try:
     from importlib.metadata import PackageNotFoundError, version
 except ImportError:  # Python 3.7
